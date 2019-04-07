@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+
+.wrap{
+	margin:0 auto;
+	width:80%;
+  padding-top: 36px;
+}
+
+.logo{
+width: 50px;
+height: 50px;
+
+
+}
+
+.h_bg{
+background: url('../images/h_bg.png') repeat-x ;
+margin-top: -8px;
+margin-right: -2px;
+margin-left: -5px;
+}
+
+.ftr-bg{
+	background: #E9DCC9;
+	border-top: 1px solid rgba(214, 195, 167, 0.34);
+  margin-top: -8px;
+  margin-right: -2px;
+  margin-left: -5px;
+  }
+
+.h-bg-color{
+background: url('../images/h.bg.png') repeat-x;
+}
+.wrap1{
+margin:0 auto;
+width: 20px;
+}
+.welcome{
+background: url('../images/welcome.png');
+}
